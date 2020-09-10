@@ -47,12 +47,12 @@ If you’d like to use your own Logitech hardware or peripherals for these chall
 # Rewards
 
 Winners will get amazing prizes from our brands:
-<img src="img/logitech-brands.png" style="float:right;margin-left:10px">
+<img src="img/Logitech Multibrand Horizontal Print White.png" style="float:right;margin-left:10px">
 
 # Support
 
 For support, you can either ping us on [our Slack channel UPDATE LINK]() or just come to our booth!
 
 <div style="text-align:center">
-    <a href="https://www.logitech.com"><img src="img/logitech.png"></a>
+    <a href="https://www.logitech.com"><img src="img/logitech.png" style="max-width: 25%"></a>
 </div>
