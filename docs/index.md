@@ -44,7 +44,7 @@ When being creative being in a state of “in the zone” is paramount. Think ab
 
 COVID has physically altered our workspaces, and many of these changes will become semi-permanent as businesses adapt. What would you do to recreate the emotional impact of in person collaboration?
 
-* xxxxxxx
+* How would you make the video conferencing experience better?
 
 ## Attending HackZurich in person or have access to Logitech Hardware at home
 
