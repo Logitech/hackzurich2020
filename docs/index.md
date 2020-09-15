@@ -46,7 +46,7 @@ COVID has physically altered our workspaces, and many of these changes will beco
 
 * xxxxxxx
 
-## On-site or have access to Logitech Hardware form home 
+## Attending HackZurich in person or have access to Logitech Hardware at home
 
 If you’d like to use your own Logitech hardware or peripherals for these challenges, we’ll be providing SDKs for MX Master 3 and MX Keys.
 
