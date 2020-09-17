@@ -31,20 +31,23 @@ Creative industries range from 3D Modeling, Animation, video editing, to coding 
 
 * Input event injections docs (Win [here](https://msdn.microsoft.com/fr-fr/library/windows/desktop/ms646304(v=vs.85).aspx) and [there](https://msdn.microsoft.com/en-us/library/windows/desktop/ms646310(v=vs.85).aspx), OSX [here](https://developer.apple.com/documentation/coregraphics/1456564-cgeventcreatekeyboardevent) and [there](https://developer.apple.com/documentation/coregraphics/1456527-cgeventpost), [Linux](https://www.kernel.org/doc/html/v4.12/input/uinput.html))
 * Write an extension for your favorite code editor
-* Create a plugin in a popular 3D Package like Blender - Sample code to get starte [here]()
+* Create a plugin in a popular 3D Package like Blender - Sample code to get started [here]()
 
 ## In The Flow
 
 When being creative being in a state of “in the zone” is paramount. Think about how you can help manage, create and sustain distraction-free and highly productive states of mind. Your solution would also ideally help maintain a healthy work/life balance.  
 
-* Want a quick Computer Vision sample to get you started? [This](./cv) should be a good first step towards your human activity monitoring system (no cloud involved ;-)
-* Use Slack / StackOverflow APIs
+* Create a your human activity monitoring system, could you automatically detect if you are in "the zone" from your webcam? (e.g. [teddy bear posture detection](https://medium.com/@simon.aubury/home-office-ergonomics-with-tensorflow-a4953ca559d6) and [human pose estimation using OpenCV](https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/))
+* Use Slack / StackOverflow APIs, create virtual avatar of yourself, that can reply to your colleagues and family when you are busy
+* There's [two mode of thinking](https://fs.blog/2019/10/focused-diffuse-thinking/). How can we leverage both of these modes to be more productive?
 
 ## Collaborate Anywhere
 
 COVID has physically altered our workspaces, and many of these changes will become semi-permanent as businesses adapt. What would you do to recreate the emotional impact of in person collaboration?
 
 * How would you make the video conferencing experience better?
+* Explore the idea of a virtual collaborative workspace
+* How would you approach creating meaningful social interactions virtually? (e.g. [netflixparty](https://www.netflixparty.com/))
 
 ## Attending HackZurich in person or have access to Logitech Hardware at home
 
