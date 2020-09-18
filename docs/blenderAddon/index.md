@@ -1,6 +1,6 @@
 # Blender Voxelise Adddon
 
-<img src="..\img\blenderAddon\blenderVoxelise.png"  style="max-width: 75%">
+<img src="..\img\BlenderAddon\blenderVoxelise.png"  style="max-width: 75%">
 
 The `.blend` LogitechVoxelise is a simple demonstration of how to create an addon in Blender.
 This could be an interesting starting point to propose a new innovative way of creating 3D content or enhancing the current workflow of Blender users.
@@ -12,11 +12,11 @@ Tested with **Blender 2.83 LTS**
 
 * Open the blender file
 * Run the script here, after selecting the `Scripting` workflow
-<img src="..\img\blenderAddon\blenderAddonRun.png">
+<img src="..\img\BlenderAddon\blenderAddonRun.png">
 
 * Go back to the `Layout` screen. After selecting an active object in the viewport select `Object` and then the `Voxelise` option.
 
-<img src="..\img\blenderAddon\voxeliseUI.png">
+<img src="..\img\BlenderAddon\voxeliseUI.png">
 
 ## Resources
 
