@@ -37,7 +37,7 @@ Creative industries range from 3D Modeling, Animation, video editing, to coding 
 
 When being creative being in a state of “in the zone” is paramount. Think about how you can help manage, create and sustain distraction-free and highly productive states of mind. Your solution would also ideally help maintain a healthy work/life balance.  
 
-* Create a your human activity monitoring system, could you automatically detect if you are in "the zone" from your webcam? (e.g. [teddy bear posture detection](https://medium.com/@simon.aubury/home-office-ergonomics-with-tensorflow-a4953ca559d6) and [human pose estimation using OpenCV](https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/))
+* Create a your human activity monitoring system, could you automatically detect if you are in "the zone" from your webcam? (e.g. [getting started with realtime pose estimation](./fastPose/) and [human pose estimation using OpenCV](https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/))
 * Use Slack / StackOverflow APIs, create virtual avatar of yourself, that can reply to your colleagues and family when you are busy
 * There's [two mode of thinking](https://fs.blog/2019/10/focused-diffuse-thinking/). How can we leverage both of these modes to be more productive?
 
