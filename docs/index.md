@@ -16,7 +16,7 @@ Show us the future of creation.
 
 The world is changing rapidly, and the future of creation is yours to determine. Let the following samples inspire your ideation.
 
-## Real World to Digital
+## Rapid 3D Creation
 
 Source creation from the real environment - imagine ways where you can leverage your personal space to create content.
 
@@ -24,7 +24,7 @@ Source creation from the real environment - imagine ways where you can leverage 
 * Think about leveraging ARKit and ARCore to take real world screenshots
 * If you have a brand new IpadPro why not finding an innovative way of using the LiDAR scanner? [Apple documentation](https://developer.apple.com/documentation/arkit/world_tracking/visualizing_and_interacting_with_a_reconstructed_scene)
 
-## Enhance workflow
+## Workflow Management
 
 Each year, we increase the tools and assets we work with to get the job done. Imagine the workflow of a specific industry, and create a system or tool to improve efficacy, collaboration and organisation.
 Creative industries range from 3D Modeling, Animation, video editing, to coding environments.
@@ -33,7 +33,7 @@ Creative industries range from 3D Modeling, Animation, video editing, to coding 
 * Write an extension for your favorite code editor
 * Create a plugin in a popular 3D Package like Blender - Sample code to get started [here](./blenderAddon/)
 
-## In The Flow
+## Creative Flow
 
 When being creative being in a state of “in the zone” is paramount. Think about how you can help manage, create and sustain distraction-free and highly productive states of mind. Your solution would also ideally help maintain a healthy work/life balance.  
 
