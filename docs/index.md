@@ -31,6 +31,7 @@ Creative industries range from 3D Modeling, Animation, video editing, to coding 
 
 * Input event injections docs (Win [here](https://msdn.microsoft.com/fr-fr/library/windows/desktop/ms646304(v=vs.85).aspx) and [there](https://msdn.microsoft.com/en-us/library/windows/desktop/ms646310(v=vs.85).aspx), OSX [here](https://developer.apple.com/documentation/coregraphics/1456564-cgeventcreatekeyboardevent) and [there](https://developer.apple.com/documentation/coregraphics/1456527-cgeventpost), [Linux](https://www.kernel.org/doc/html/v4.12/input/uinput.html))
 * Write an extension for your favorite code editor
+* Create a plugin in a popular 3D Package like Blender - Sample code to get started [here](./blenderAddon/)
 
 ## In The Flow
 
